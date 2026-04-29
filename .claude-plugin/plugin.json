@@ -1,12 +1,13 @@
 {
   "name": "skill-kernel",
   "description": "ヒアリングを元にWeb開発案を複数生成・保存するプラグイン",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": {
     "name": "ShutoKeisuke"
   },
   "repository": "https://github.com/ShutoKeisuke/skill-kernel",
   "keywords": ["claude-code", "idea-generation", "web-development", "workflow"],
   "skills": "./skills/",
-  "commands": "./commands/"
+  "commands": "./commands/",
+  "agents": "./agents/"
 }
