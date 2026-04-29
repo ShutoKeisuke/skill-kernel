@@ -6,5 +6,7 @@
     "name": "ShutoKeisuke"
   },
   "repository": "https://github.com/ShutoKeisuke/skill-kernel",
-  "keywords": ["claude-code", "idea-generation", "web-development", "workflow"]
+  "keywords": ["claude-code", "idea-generation", "web-development", "workflow"],
+  "skills": "./skills/",
+  "commands": "./commands/"
 }
