@@ -1,7 +1,7 @@
 {
   "name": "skill-kernel",
   "description": "ヒアリングを元にWeb開発案を複数生成・保存するプラグイン",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "author": {
     "name": "ShutoKeisuke"
   },
