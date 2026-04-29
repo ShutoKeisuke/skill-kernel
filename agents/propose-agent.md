@@ -1,7 +1,7 @@
 ---
 name: propose-agent
 description: hearing・research・propose の3スキルを順番に実行し、完了サマリーのみをメインエージェントに返すエージェント。
-tools: Read, Write, Bash
+tools: Read, Write, Bash, WebSearch
 ---
 
 # propose-agent
