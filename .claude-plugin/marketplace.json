@@ -1,0 +1,20 @@
+{
+  "name": "skill-kernel",
+  "owner": {
+    "name": "ShutoKeisuke"
+  },
+  "metadata": {
+    "description": "Web開発の案出しを支援するプラグイン"
+  },
+  "plugins": [
+    {
+      "name": "skill-kernel",
+      "description": "ヒアリングを元にWeb開発案を複数生成・保存するプラグイン",
+      "version": "0.0.1",
+      "source": "./",
+      "author": {
+        "name": "ShutoKeisuke"
+      }
+    }
+  ]
+}
